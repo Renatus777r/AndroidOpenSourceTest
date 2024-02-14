@@ -1,0 +1,12 @@
+Welcome to android open source test.
+
+1. Open program
+2. Wait for message "Log file created successfully for debugging." (if u dont have this message then something wrong in code or hacked version)
+3. Into folder DebuggingCoreLogs copy file log_YEAR-MONTH-DAY to system folder of your custom or offcial rom
+4. When all done then flash your rom and all libs will be loaded and fixed (if one lib in your rom was broke like something wrong in code)
+5. If something wrong just type report in github! and i will try to fix (DONT FIX YOUSELF) 
+
+
+                                          - Dont ask why its looks like log but its works -
+                                                                          - Renat 2024
+
